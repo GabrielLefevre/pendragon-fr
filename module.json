@@ -17,9 +17,6 @@
   "dependencies": [
     {
       "name": "babele"
-    },
-    {
-      "name": "pendragon6e"
     }
   ],
   "languages": [
