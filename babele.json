@@ -1,0 +1,11 @@
+{
+  "module": "pendragon6e",
+  "lang": "fr",
+  "dir": "lang",
+  "files": [
+    {
+      "type": "system",
+      "path": "fr.json"
+    }
+  ]
+}
