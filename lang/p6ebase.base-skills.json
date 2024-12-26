@@ -2,7 +2,7 @@
   "label": "Compétences",
   "entries": {
     "Awareness": {
-      "name": "Conscience"
+      "name": "Vigilence"
     },
     "Battle": {
       "name": "Bataille"
@@ -14,7 +14,7 @@
       "name": "Bagarre"
     },
     "Charge": {
-      "name": "Charge"
+      "name": "Lance"
     },
     "Chirurgery": {
       "name": "Chirurgie"
@@ -35,13 +35,13 @@
       "name": "Fauconnerie"
     },
     "Fashion": {
-      "name": "Mode"
+      "name": "Séduction"
     },
     "First Aid": {
-      "name": "Premier secours"
+      "name": "Premier soins"
     },
     "Flirting": {
-      "name": "Flirt"
+      "name": "Romance"
     },
     "Folklore": {
       "name": "Folklore"
@@ -50,7 +50,7 @@
       "name": "Jeux"
     },
     "Hafted": {
-      "name": "Emmancher"
+      "name": "Dague"
     },
     "Hafted - 2H": {
       "name": "Tenu à deux mains"
@@ -62,13 +62,13 @@
       "name": "Chasse"
     },
     "Industry": {
-      "name": "Industrie"
+      "name": "Gestion"
     },
     "Intrigue": {
       "name": "Intrigue"
     },
     "Literacy": {
-      "name": "Alphabétisation"
+      "name": "Lire"
     },
     "Orate": {
       "name": "Prier"
@@ -86,7 +86,7 @@
       "name": "Chant"
     },
     "Spear": {
-      "name": "Lance"
+      "name": "Lance de fantassin"
     },
     "Stewardship": {
       "name": "Intendance"
