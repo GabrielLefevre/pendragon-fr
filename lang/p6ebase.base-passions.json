@@ -14,10 +14,10 @@
       "name": "Devoir (vassaux)"
     },
     "Fealty (Lord)": {
-      "name": "Fidélité (Seigneur)"
+      "name": "Loyauté (Seigneur)"
     },
     "Hate (Group)": {
-      "name": "Haine (Groupe)"
+      "name": "Haine (groupe)"
     },
     "Hate (Person)": {
       "name": "Haine (personne)"
@@ -38,10 +38,10 @@
       "name": "Amour (famille)"
     },
     "Loyalty (Companions)": {
-      "name": "Fidélité (compagnons)"
+      "name": "Loyauté (compagnons)"
     },
     "Loyalty (King)": {
-      "name": "Fidélité (roi)"
+      "name": "Loyauté (roi)"
     },
     "Station": {
       "name": "Rang social"

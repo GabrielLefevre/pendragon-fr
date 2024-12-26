@@ -1,44 +1,60 @@
 {
   "label": "Traits",
+  "mapping": {
+    "sysoppname": "system.oppName"
+  },
   "entries": {
     "Chaste": {
-      "name": "Chaste"
+      "name": "Chaste",
+      "sysoppname": "Luxurieux"
     },
     "Energetic": {
-      "name": "Énergique"
+      "name": "Énergique",
+      "sysoppname": "Paresseux"
     },
     "Forgiving": {
-      "name": "Clément"
+      "name": "Clément",
+      "sysoppname": "Rancunier"
     },
     "Generous": {
-      "name": "Généreux"
+      "name": "Généreux",
+      "sysoppname": "Égoïste"
     },
     "Honest": {
-      "name": "Honnête"
+      "name": "Sincère",
+      "sysoppname": "Trompeur"
     },
     "Just": {
-      "name": "Juste"
+      "name": "Juste",
+      "sysoppname": "Arbitraire"
     },
     "Merciful": {
-      "name": "Miséricordieux"
+      "name": "Miséricordieux",
+      "sysoppname": "Cruel"
     },
     "Modest": {
-      "name": "Modeste"
+      "name": "Modeste",
+      "sysoppname": "Fier"
     },
     "Prudent": {
-      "name": "Prudent"
+      "name": "Prudent",
+      "sysoppname": "Impulsif"
     },
     "Spiritual": {
-      "name": "Spirituel"
+      "name": "Spirituel",
+      "sysoppname": "Pragmatique"
     },
     "Temperate": {
-      "name": "Tempérant"
+      "name": "Sobre",
+      "sysoppname": "Bon vivant"
     },
     "Trusting": {
-      "name": "Confiant"
+      "name": "Confiant",
+      "sysoppname": "M&fiant"
     },
     "Valorous": {
-      "name": "Valeureux"
+      "name": "Valeureux",
+      "sysoppname": "Couard"
     }
   }
 }
