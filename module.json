@@ -2,7 +2,7 @@
   "id": "pendragon-fr",
   "title": "Pendragon 6e - FR",
   "description": "Adds a French translation for the 6th edition Pendragon system.",
-  "version": "1.4.3",
+  "version": "1.4.5",
   "compatibility": {
 	"minimum": "11",
 	"verified": "12"
