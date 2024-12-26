@@ -1,11 +1,12 @@
 {
   "label": "Jet d'équipement",
+  "mapping": {
+    "sysdescription": "system.description"
+  },
   "entries": {
     "Test Equipment": {
       "name": "Test d'équipement",
-      "system": {
-        "description": "<p>Définir le prix et la quantité par défaut pour l'équipement.</p>"
-      }
+      "sysdescription": "<p>Définir le prix et la quantité par défaut pour l'équipement.</p>"
     }
   }
 }
