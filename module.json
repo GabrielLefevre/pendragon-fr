@@ -2,41 +2,43 @@
   "id": "pendragon-fr",
   "title": "Pendragon 6e - FR",
   "description": "Adds a French translation for the 6th edition Pendragon system.",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "compatibility": {
-    "minimum": "11",
-    "verified": "12"
+	"minimum": "11",
+	"verified": "12"
   },
   "authors": [
-    {
-      "name": "Preshair",
-      "discord": "Preshair"
-    }
+	{
+	  "name": "Preshair",
+	  "discord": "Preshair"
+	}
   ],
   "relationships": {
-    "requires": [
-      {
-        "id": "babele",
-        "type": "module",
-        "compatibility": {}
-      }
-    ],
-    "systems": [
-      {
-        "id": "Pendragon",
-        "type": "system",
-        "compatibility": {}
-      }
-    ]
+	"requires": [
+	  {
+		"id": "babele",
+		"type": "module",
+		"compatibility": {}
+	  }
+	],
+	"systems": [
+	  {
+		"id": "Pendragon",
+		"type": "system",
+		"compatibility": {}
+	  }
+	]
   },
   "esmodules": [
-    "babele-register.js"
+	"babele-register.js"
   ],
-  "languages": [{
-    "lang": "fr",
-    "name": "Français",
-    "path": "lang/fr.json"
-  }],
+  "languages": [
+	{
+	  "lang": "fr",
+	  "name": "Français",
+	  "path": "lang/fr.json"
+	}
+  ],
   "url": "https://github.com/GabrielLefevre/pendragon-fr",
   "manifest": "https://github.com/GabrielLefevre/pendragon-fr/releases/latest/download/module.json",
   "download": "https://github.com/GabrielLefevre/pendragon-fr/releases/latest/download/pendragon-fr.zip"
