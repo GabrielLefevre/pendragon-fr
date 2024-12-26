@@ -1,0 +1,11 @@
+{
+  "label": "Jet de patrie",
+  "entries": {
+    "Test Homeland": {
+      "name": "Test de patrie",
+      "system": {
+        "description": "<p>Ajoutez toutes les passions auxquelles la Patrie accorde un bonus.</p>"
+      }
+    }
+  }
+}

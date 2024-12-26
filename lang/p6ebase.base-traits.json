@@ -1,0 +1,44 @@
+{
+  "label": "Traits",
+  "entries": {
+    "Chaste": {
+      "name": "Chaste"
+    },
+    "Energetic": {
+      "name": "Énergique"
+    },
+    "Forgiving": {
+      "name": "Clément"
+    },
+    "Generous": {
+      "name": "Généreux"
+    },
+    "Honest": {
+      "name": "Honnête"
+    },
+    "Just": {
+      "name": "Juste"
+    },
+    "Merciful": {
+      "name": "Miséricordieux"
+    },
+    "Modest": {
+      "name": "Modeste"
+    },
+    "Prudent": {
+      "name": "Prudent"
+    },
+    "Spiritual": {
+      "name": "Spirituel"
+    },
+    "Temperate": {
+      "name": "Tempérant"
+    },
+    "Trusting": {
+      "name": "Confiant"
+    },
+    "Valorous": {
+      "name": "Valeureux"
+    }
+  }
+}

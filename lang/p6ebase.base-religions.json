@@ -1,0 +1,11 @@
+{
+  "label": "Jet de religion",
+  "entries": {
+    "Test Religion": {
+      "name": "Test de religion",
+      "system": {
+        "description": "<p>Une religion test. Ajoutez des traits à la religion. Lorsque vous souhaitez donner un bonus au trait principal (par exemple Chaste), ajoutez-le à la section Vertus. Lorsque vous souhaitez donner un bonus au trait adverse (par exemple Suspect), ajoutez le trait à la section Vices.</p>"
+      }
+    }
+  }
+}

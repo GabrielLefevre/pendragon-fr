@@ -1,0 +1,11 @@
+{
+  "label": "Jet d'idéaux",
+  "entries": {
+    "Test Ideal": {
+      "name": "Test d'idéal",
+      "system": {
+        "description": "<p>Il y a trois sections à compléter.</p><p>Lorsque l’Idéal exige un nombre total de points répartis sur plusieurs traits, ajoutez ces traits dans la section « Groupe de Traits » et indiquez le Total Requis.</p><p>Lorsque des Compétences, Traits ou Passions spécifiques sont nécessaires avec des scores individuels, ajoutez-les dans la section « Exigences Individuelles ».</p><p>Ensuite, ajoutez les Bénéfices. Les « statistiques » indiquées seront automatiquement ajustées lorsque l’Idéal sera ajouté au personnage et que celui-ci continuera à remplir les exigences.</p><p>Tous les autres avantages doivent être notés dans cette description mais devront être appliqués manuellement.</p>"
+      }
+    }
+  }
+}

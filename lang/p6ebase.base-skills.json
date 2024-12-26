@@ -1,0 +1,101 @@
+{
+  "label": "Compétences",
+  "entries": {
+    "Awareness": {
+      "name": "Conscience"
+    },
+    "Battle": {
+      "name": "Bataille"
+    },
+    "Bow": {
+      "name": "Arc"
+    },
+    "Brawling": {
+      "name": "Bagarre"
+    },
+    "Charge": {
+      "name": "Charge"
+    },
+    "Chirurgery": {
+      "name": "Chirurgie"
+    },
+    "Compose": {
+      "name": "Composition"
+    },
+    "Courtesy": {
+      "name": "Courtoisie"
+    },
+    "Crossbow": {
+      "name": "Arbalète"
+    },
+    "Dancing": {
+      "name": "Danse"
+    },
+    "Falconry": {
+      "name": "Fauconnerie"
+    },
+    "Fashion": {
+      "name": "Mode"
+    },
+    "First Aid": {
+      "name": "Premier secours"
+    },
+    "Flirting": {
+      "name": "Flirt"
+    },
+    "Folklore": {
+      "name": "Folklore"
+    },
+    "Gaming": {
+      "name": "Jeux"
+    },
+    "Hafted": {
+      "name": "Emmancher"
+    },
+    "Hafted - 2H": {
+      "name": "Tenu à deux mains"
+    },
+    "Horsemanship": {
+      "name": "Équitation"
+    },
+    "Hunting": {
+      "name": "Chasse"
+    },
+    "Industry": {
+      "name": "Industrie"
+    },
+    "Intrigue": {
+      "name": "Intrigue"
+    },
+    "Literacy": {
+      "name": "Alphabétisation"
+    },
+    "Orate": {
+      "name": "Prier"
+    },
+    "Play (Instrument)": {
+      "name": "Jouer d'un instrument"
+    },
+    "Recognize": {
+      "name": "Reconnaître"
+    },
+    "Religion": {
+      "name": "Religion"
+    },
+    "Singing": {
+      "name": "Chant"
+    },
+    "Spear": {
+      "name": "Lance"
+    },
+    "Stewardship": {
+      "name": "Intendance"
+    },
+    "Sword": {
+      "name": "Épée"
+    },
+    "Thrown Weapon": {
+      "name": "Arme de jet"
+    }
+  }
+}

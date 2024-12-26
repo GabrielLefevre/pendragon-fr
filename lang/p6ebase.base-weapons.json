@@ -1,0 +1,17 @@
+{
+  "label": "Jet d'arme",
+  "entries": {
+    "Test Melee Weapon": {
+      "name": "Test d'arme de mêlée",
+      "system": {
+        "description": "<p>Vérifiez que la case « Arme de mêlée » est cochée.</p><p>Cochez la case « Improvisée » pour les armes improvisées (par exemple, si c'est un pied de chaise).</p><p>Choisissez la compétence que cette arme utilise dans le menu déroulant et indiquez si l'arme ne peut être utilisée qu'à cheval, uniquement à pied ou dans les deux situations. Ajoutez la Source de Dégâts depuis le menu déroulant.</p><p>Ajoutez les bonus de dégâts supplémentaires (laissez le Dégâts Max D6 à 99 - cela ne s'applique réellement qu'aux armes à distance), ainsi que tout bonus de Parade.</p><p>Notez les Avantages et Inconvénients.</p>"
+      }
+    },
+    "Test Missile Weapon": {
+      "name": "Test d'arme de jet",
+      "system": {
+        "description": "<p>Décochez la case « Arme de mêlée » (les champs ci-dessous changeront).</p><p>Cochez la case « Improvisée » pour les armes improvisées (par exemple, si c'est un pied de chaise).</p><p>Choisissez la compétence que cette arme utilise dans le menu déroulant et indiquez si l'arme peut être utilisée uniquement à cheval, uniquement à pied ou dans les deux situations. Ajoutez la Source de Dégâts depuis le menu déroulant.</p><p>Ajoutez les bonus de dégâts supplémentaires, cela peut souvent être négatif pour les armes à distance (par exemple, -1 pour -1D6 sous Dégâts supplémentaires). Certaines armes à distance peuvent également avoir un nombre maximal de D6 de dégâts - entrez ce nombre dans Dégâts Max (par exemple, entrez 4 là où les Dégâts Max sont 4D6).</p><p>Notez les Inconvénients, sélectionnez la portée de l'arme à distance et le Taux de Tir (ceci est généralement 1 par round).</p><p>Vous pouvez vouloir changer l'icône - nous recommandons \"quiver.svg\".</p>"
+      }
+    }
+  }
+}

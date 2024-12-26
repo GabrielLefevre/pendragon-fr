@@ -1,20 +1,26 @@
 {
-  "label": "Armure",
+  "label": "Jet d'armure",
   "folders": {
     "Base Armour": "Armure"
   },
   "entries": {
     "Test Armour": {
       "name": "Test d'Armure",
-      "description": "Assurez-vous que la case de l'armure est cochée (cela sera le paramètre par défaut) et définissez les points d'armure. Choisissez le type de matériau dans le menu déroulant. Ajoutez tous les détails concernant le rembourrage autorisé et les notes appropriées."
+      "system": {
+        "description": "<p>Assurez-vous que la case de l'armure est cochée (cela sera le paramètre par défaut) et définissez les points d'armure. Choisissez le type de matériau dans le menu déroulant. Ajoutez tous les détails concernant le rembourrage autorisé et les notes appropriées.</p>"
+      }
     },
     "Test Helmet": {
       "name": "Test de Casque",
-      "description": "Configurez cela comme une armure (assurez-vous que la case de l'armure est cochée et saisissez les points d'armure).  \n\nVous pouvez envisager de changer l'icône - nous recommandons \"light-helm.svg\"."
+      "system": {
+        "description": "<p>Configurez cela comme une armure (assurez-vous que la case de l'armure est cochée et saisissez les points d'armure).  </p><p>Vous pouvez envisager de changer l'icône - nous recommandons \"light-helm.svg\".</p>"
+      }
     },
     "Test Shield": {
       "name": "Test de Bouclier",
-      "description": "Cochez la case bouclier – cela vous permettra de saisir une pénalité aux projectiles ainsi que les points d'armure, les désavantages et toutes les notes pertinentes.  \n\nVous pouvez changer l'icône si vous le souhaitez – nous recommandons d'utiliser \"checked-shield.svg\"."
+      "system": {
+        "description": "<p>Cochez la case bouclier – cela vous permettra de saisir une pénalité aux projectiles ainsi que les points d'armure, les désavantages et toutes les notes pertinentes.  </p><p>Vous pouvez changer l'icône si vous le souhaitez – nous recommandons d'utiliser \"checked-shield.svg\".</p>"
+      }
     }
   }
 }

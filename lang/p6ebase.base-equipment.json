@@ -1,0 +1,11 @@
+{
+  "label": "Jet d'équipement",
+  "entries": {
+    "Test Equipment": {
+      "name": "Test d'équipement",
+      "system": {
+        "description": "<p>Définir le prix et la quantité par défaut pour l'équipement.</p>"
+      }
+    }
+  }
+}

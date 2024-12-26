@@ -1,0 +1,50 @@
+{
+  "label": "Passions",
+  "entries": {
+    "Adoration (beloved)": {
+      "name": "Adoration (bien-aimé)"
+    },
+    "Chivalry": {
+      "name": "Chevalerie"
+    },
+    "Devotion (Deity)": {
+      "name": "Dévotion (Déité)"
+    },
+    "Duty (Vassals)": {
+      "name": "Devoir (vassaux)"
+    },
+    "Fealty (Lord)": {
+      "name": "Fidélité (Seigneur)"
+    },
+    "Hate (Group)": {
+      "name": "Haine (Groupe)"
+    },
+    "Hate (Person)": {
+      "name": "Haine (personne)"
+    },
+    "Homage (Lord)": {
+      "name": "Hommage (Seigneur)"
+    },
+    "Honour": {
+      "name": "Honneur"
+    },
+    "Hospitality": {
+      "name": "Hospitalité"
+    },
+    "Love (Person)": {
+      "name": "Amour (personne)"
+    },
+    "Love Family": {
+      "name": "Amour (famille)"
+    },
+    "Loyalty (Companions)": {
+      "name": "Fidélité (compagnons)"
+    },
+    "Loyalty (King)": {
+      "name": "Fidélité (roi)"
+    },
+    "Station": {
+      "name": "Rang social"
+    }
+  }
+}

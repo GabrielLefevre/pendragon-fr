@@ -1,0 +1,11 @@
+{
+  "label": "Jet de culture",
+  "entries": {
+    "Test Culture": {
+      "name": "Test de culture",
+      "system": {
+        "description": "<p>Définissez ici les lancers de dés caractéristiques, les bonus éventuels et les valeurs maximales.</p><p>Ajoutez toutes les compétences auxquelles la culture accorde un bonus.</p>"
+      }
+    }
+  }
+}

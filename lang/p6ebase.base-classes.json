@@ -1,0 +1,11 @@
+{
+  "label": "Jet de classe",
+  "entries": {
+    "Test Class": {
+      "name": "Test de classe",
+      "system": {
+        "description": "<p>Pour une classe, ajoutez les Passions pertinentes dans les sections Primaire, Secondaire et Tertiaire – celles-ci déterminent les scores de départ pour ces Passions.</p><p>Ajoutez tout équipement de départ, armes, armures et chevaux dans la section Équipement de Départ.</p>"
+      }
+    }
+  }
+}

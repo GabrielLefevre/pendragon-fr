@@ -1,0 +1,17 @@
+{
+  "label": "Jet de cavalerie",
+  "entries": {
+    "Test Combat Horse": {
+      "name": "Test de Cheval de guerre",
+      "system": {
+        "description": "<p>Définissez les statistiques du cheval. Les chevaux de combat ont une statistique de dégâts de charge qui doit être complétée.</p>"
+      }
+    },
+    "Test Riding Horse": {
+      "name": "Test de Cheval d'équitation",
+      "system": {
+        "description": "<p>Entrez les statistiques du cheval de base. Ne cochez pas la case « cheval de combat ».</p>"
+      }
+    }
+  }
+}
