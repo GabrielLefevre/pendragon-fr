@@ -1,8 +1,8 @@
 {
-  "id": "preshair-pendragon-fr",
+  "id": "pendragon-fr",
   "title": "Pendragon 6e - FR",
   "description": "Adds a French translation for the 6th edition Pendragon system.",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -13,18 +13,22 @@
       "discord": "Preshair"
     }
   ],
-  "dependencies": [
-    {
-      "name": "babele"
-    }
-  ],
-  "languages": [
-    {
-      "lang": "fr",
-      "name": "Français",
-      "path": "lang/fr.json"
-    }
-  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "Pendragon",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
   "url": "https://github.com/GabrielLefevre/pendragon-fr",
   "manifest": "https://github.com/GabrielLefevre/pendragon-fr/releases/latest/download/module.json",
   "download": "https://github.com/GabrielLefevre/pendragon-fr/releases/latest/download/pendragon-fr.zip"
